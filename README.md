@@ -1,4 +1,4 @@
-# Project-of-MultiBlog
+# Udacity MultiBlog Project
 
 - First intall "Google App Engine" useing this link ('goo.gl/BNtT13') for furture information read the provided document on this link.
 
