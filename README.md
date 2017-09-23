@@ -10,6 +10,6 @@
  
 - Then it will take you to your browser and you can see witch port it is running on open that port or local host "8080" to see you applications live feed 
  
- #OR
+ # OR
  
  > Here is the link to google Documention that to download google SDK to run ('https://cloud.google.com/sdk/')
