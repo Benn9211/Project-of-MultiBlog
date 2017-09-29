@@ -1,6 +1,6 @@
 # Udacity MultiBlog Project
 
-- First intall "Google App Engine" useing this [link](https://cloud.google.com/appengine/downloads?utm_source=google&utm_medium=cpc&utm_campaign=2015-q1-cloud-northam-us-gae-bkws-freetrial-en&gclid=Cj0KEQjwuOHHBRDmvsHs8PukyIQBEiQAlEMW0ON07bTdkSwfapg3FWoPJcHTWVGFlgN60eH47zsK2iYaAqmL8P8HAQ) for furture information read the provided document on this link.
+- First install "Google App Engine" useing this [link](https://cloud.google.com/appengine/downloads?utm_source=google&utm_medium=cpc&utm_campaign=2015-q1-cloud-northam-us-gae-bkws-freetrial-en&gclid=Cj0KEQjwuOHHBRDmvsHs8PukyIQBEiQAlEMW0ON07bTdkSwfapg3FWoPJcHTWVGFlgN60eH47zsK2iYaAqmL8P8HAQ) for furture information read the provided document on this link.
 
 - Second step go to the app engine click file open add exiting application then look for you floder that contains the app file and add the path
  
